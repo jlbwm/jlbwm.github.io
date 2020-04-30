@@ -78,8 +78,14 @@ p.lead {
 .dev-icons {
   font-size: 3rem;
 }
+.dev-word {
+  font-size: 1.7rem;
+}
 
 .dev-icons .list-inline-item i:hover {
+  color: #BD5D38;
+}
+.dev-word .list-inline-item i:hover {
   color: #BD5D38;
 }
 
